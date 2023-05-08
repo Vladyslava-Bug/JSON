@@ -1,1 +1,7 @@
-empty
+{
+	"firstname": "Vladyslava",
+	"secondname": "Zhukova",
+	"age": 29,
+	"pets": false,
+	"salary": 2000
+}
